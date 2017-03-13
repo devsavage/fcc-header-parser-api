@@ -1,0 +1,22 @@
+{
+  "name": "fcc-header-parser-api",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsavage/fcc-header-parser-api.git"
+  },
+  "author": "devsavage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devsavage/fcc-header-parser-api/issues"
+  },
+  "homepage": "https://github.com/devsavage/fcc-header-parser-api#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
